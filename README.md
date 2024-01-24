@@ -40,5 +40,5 @@ A simple AI tool built by [Fuad Habib](https://github.com/AvicennaJr).
 
 The source code of the tool can be found here:
 
-
+https://github.com/AvicennaJr/FyneAI
 
